@@ -8,6 +8,6 @@ Build a language classifier that takes unstructured words and predicts which lan
 Data Importing | Data Cleaning | Exploratory Data Analysis | Feature Engineering/Extraction | Cross Validation | Different Predictive Models Building | Model Evaluation 
 
 #### Libraries Used:
-Pandas | Numpy | Scikit Learn | Pandas
+Pandas | Numpy | Scikit Learn | Pandas | nltk
 | Matplotlib
 | Seaborn
